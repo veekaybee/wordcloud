@@ -1,0 +1,635 @@
+ Strata 
+ Europe    /    
+ Program     
+ Schedule        
+ Tutorials        
+ Data Driven 
+ Hardcore Data Science        
+ Sessions by Track     
+ Data, Connectivity, and Society        
+ Data Science        
+ Design        
+ Enterprise Data        
+ Hadoop in Action img 
+ Hadoop    Beyond img 
+ Hadoop Platform img 
+  ed Sessions        
+ Sessions by Industry     
+ Finance        
+ Government    Policy        
+ Media        
+ Retail        
+ Keynotes        
+ Speakers        
+ Events     
+ All Events        
+ Startup Showcase        
+ Data Innovation Awards        
+ Ignite        
+ Office Hours        
+ Author Signings        
+ Speaker Slides    Video        
+ Onsite          
+ Video        
+  s     
+  s        
+ Exhibitors        
+ Media Partners        
+ Career Zone        
+ Exhibitor 
+ Connect     
+ Free Data Webcasts        
+ Contact Us        
+ Data Blog        
+ Strata 
+ About     
+ About Strata + Hadoop nbsp;World        
+ Venue, Hotel    Travel        
+ Strata + Hadoop 
+ Conference Diversity        
+ Code 
+ Your Account     
+ Log in        
+ Schedule views /    
+ Full 
+ Personal schedule        
+     /    
+ Massive Data Aggregation, Monitoring, Processing 
+   
+ Please note: /strong  to  , your   
+    :  
+ Getting Started With Python, Matplotlib, 
+ Regent   /    
+ Please note: /strong  to  , your   
+    :  
+ How to Build a Hadoop Data Application     
+     - 
+ Please note: /strong  to  , your   
+    :  
+ Data is Beautiful     
+ Design     
+       /    
+ Please note: /strong  to  , your   
+    :  
+ Hardcore Data Science     
+     /    
+ Please note: /strong  to  , your   
+    :  
+ Read more   .  
+ Using R and Hadoop for Statistical Computation 
+     /    
+ Please note: /strong  to  , your   
+    :  
+ An Introduction to the Berkeley Data Analytics 
+     /    
+ Please note: /strong  to  , your   
+    :  
+ Data-Driven Business Day     
+     - 
+ Please note: /strong  to  , your   
+    :  
+ Read more   .  
+ 12:30pm    /    
+ America #x27;s   
+ Building a Data Platform     
+   
+ Please note: /strong  to  , your   
+    :  
+ An Introduction to Real-Time Analytics 
+ Regent   /    
+ Please note: /strong  to  , your   
+    :  
+ Teaching the Elephant to Read: Hadoop + Python 
+     - 
+ Please note: /strong  to  , your   
+    :  
+ How to Create Predictive Models in R 
+       /    
+ Please note: /strong  to  , your   
+    :  
+ Getting Started with Julia     
+     /    
+ Please note: /strong  to  , your   
+    :  
+ Mining Social Web APIs with 
+     /    
+ Please note: /strong  to  , your   
+    :  
+ Opening Reception     
+   Pavilion /    
+    :  
+ Startup Showcase     
+ 3rd Floor   /    
+ Part of 
+ Ignite     
+     /    
+    :  
+ Tuesday Coffee BoFs     
+   
+ Tuesday Keynote Welcome     
+     /    
+    :  
+ Hadoop #x27;s Impact on the Future of 
+     /    
+    :  
+ Sepa  Hadoop Myths from Reality     
+     /    
+    :  
+ Big Impact from Big Data     
+     /    
+    :  
+ Five Surprising Mobile Trajectories in 
+     /    
+    :  
+ Can Big Data Reach One Billion People?     
+     /    
+    :  
+ What Makes Us Human? A Tale of 
+     /    
+    :  
+ From Fiction to Facts with Big 
+     /    
+    :  
+ Towards Strata 2014     
+     /    
+    :  
+ 10:00am    /    
+ Startup Showcase Winners Announced     
+     /    
+    :  
+ 10:05am    /    
+ The Economic Potential of Open Data     
+     /    
+    :  
+ 10:30am    /    
+   Pavilion /    
+ 11:00am    /    
+ Morse: Realtime ETL in Facebook 
+   
+    :  
+ Defining your Big Data Arsenal: NoSQL, Hadoop, 
+   
+    :  
+ Data Philanthropy: Private-Public Sector Big 
+ Regent   /    
+ When Workflows Attack: In the Trenches with 
+     - 
+    :  
+ Data Design for Chicago Energy     
+ Design     
+       /    
+    :  
+ Scalable, Flexible Data Privacy in 
+     /    
+    :  
+ Disruptive Data Science Case Study: 
+  ed     
+     /    
+    :  
+ Big Data in the Real World     
+  ed     
+     /    
+    :  
+ Viva la Revolution: How MailChimp is using Big 
+     - 
+    :  
+ Data Governance with the Intel Distribution 
+  ed     
+    :  
+ 11:50am    /    
+ From Promise to a Platform: Next Steps in 
+   
+    :  
+ Hadoop and the Relational Data Warehouse – When 
+   
+    :  
+ Drought Prediction and Ecological Monitoring 
+ Regent   /    
+    :  
+ Hadoop Adventures At Spotify     
+     - 
+    :  
+ Interactive Visualization of 
+ Design     
+       /    
+    :  
+ Real-Time Analytical Processing (RTAP) using 
+     /    
+    :  
+ Shift into High Gear: Dramatically Improve 
+  ed     
+     /    
+    :  
+ Flexible Schema and the End of ETL     
+  ed     
+     /    
+    :  
+ Real-time Recommendations for Retail: 
+     - 
+    :  
+ Go Beyond SQL on Hadoop, Deep Answers to 
+  ed     
+ 12:30pm    /    
+ Tuesday Lunchtime Industry BoFs     
+ America #x27;s   
+ Apache HBase for Architects     
+   
+    :  
+ The Big Data Doctor Is In     
+   
+    :  
+ Big Data to Enable Connected Products     
+ Regent   /    
+    :  
+ Bringing Video Game Super Powers To Life with 
+     - 
+    :  
+ Non-linear Storytelling: Towards New Methods 
+ Design     
+       /    
+    :  
+ Parquet: An Open Columnar Storage 
+     /    
+    :  
+ Predictable Performance at Scale is the Key 
+  ed     
+     /    
+    :  
+ High Performance, Scalable Big Data Solutions in 
+  ed     
+     /    
+ New York City: A Data Science Mecca     
+     - 
+ Moderated by: /    
+ Panelists: /    
+    :  
+ Using A Visual Framework to Simplify ETL on 
+  ed     
+    :  
+ What’s Next for Apache HBase: 
+   
+    :  
+ Ensuring 100% Database Uptime for Real-Time 
+   
+    :  
+ Regent   /    
+ TBC /    
+ Hadoop    Data Science for 
+     - 
+    :  
+ How to Avoid Some Different 
+ Design     
+       /    
+    :  
+ Lessons Learned From A Decade’s Worth of Big Data 
+     /    
+    :  
+ Hardening Hadoop for the Enterprise: 
+  ed     
+     /    
+    :  
+ Between Real and Ideal in Big Data     
+  ed     
+     /    
+    :  
+ The Hidden Data Science Pipeline     
+     - 
+    :  
+ Introducing a New Way to Interact 
+  ed     
+    :  
+ Tuesday Afternoon BoFs     
+   Pavilion /    
+ Securing the Apache Hadoop Ecosystem     
+   
+    :  
+ Is Your Cloud Ready for Big Data?     
+   
+    :  
+ Data Governance for Regulated Industries 
+ Regent   /    
+    :  
+ Integrated Hadoop Management – Tying it 
+     - 
+    :  
+ Every Soldier is a Sensor: Countering Corruption 
+       /    
+    :  
+ AtlasDB: ACID Transactions for Your Favorite 
+     /    
+    :  
+ Inject Big Data into your Corporate DNA: 
+  ed     
+     /    
+ Achieving Real Success with Hadoop     
+  ed     
+     /    
+ Making Big Data Small     
+     - 
+    :  
+ Hadoop Appliances: Engineered for 
+  ed     
+    :  
+ HDFS Snapshots and Beyond     
+   
+    :  
+ Running On-premise Hadoop as a Business     
+   
+    :  
+   Revolution In Government     
+ Regent   /    
+    :  
+ Working with Geospatial Data Using Hadoop and 
+     - 
+    :  
+ The Great Debate: A Connected World is a 
+       /    
+ Moderated by: /    
+ Panelists: /    
+    :  
+ REEF - Retainable Evaluator 
+     /    
+ Getting a Handle on Hadoop and its Potential 
+  ed     
+     /    
+    :  
+ The Sands of Time: How Cloud is Changing the Role 
+  ed     
+     /    
+ How to Stop Worrying and Start Modeling Big 
+     - 
+    :  
+ Red Hat solutions for real-world big data     
+  ed     
+    :  
+   Pavilion Reception     
+   Pavilion /    
+    :  
+ On Your Own /    
+ Data After Dark     
+ West Village /    
+    :  
+ Wednesday Coffee BoFs     
+     /    
+ Wednesday Keynote Welcome     
+     /    
+ The Future of Hadoop: What Happened 
+     /    
+    :  
+ Designing Your Data-Centric Organization     
+     /    
+    :  
+ Encouraging You to Change the World with 
+     /    
+    :  
+ The Value of Social (for) TV     
+     /    
+    :  
+ Ubiquitous Satellite Imagery of our Planet     
+     /    
+    :  
+ The Big Data Journey: Taking a holistic 
+     /    
+    :  
+ Rethink How You See Data     
+     /    
+    :  
+ Can Big Data Save Them?     
+     /    
+    :  
+ 10:00am    /    
+ Changing the Face of Technology - Black 
+     /    
+    :  
+ 10:05am    /    
+ Beyond R and Ph.D.s: The Mythology of Data 
+     /    
+    :  
+ 10:15am    /    
+ Is Bigger Really Better? Predictive Analytics 
+     /    
+    :  
+ 10:30am    /    
+   Pavilion /    
+ 11:00am    /    
+ Running Non-MapReduce Big Data applications 
+   
+    :  
+ Building Your Analytics Shop, Step By Step     
+   
+    :  
+ Instant Results and Infinite Storage with SAP 
+  ed     
+ Regent   /    
+    :  
+ Managing a Rapidly Evolving 
+     - 
+    :  
+ The Evolution of Hadoop at Stripe: 
+       /    
+    :  
+ Four Pillars of Visualization     
+ Design     
+     A /    
+    :  
+ The Big Data Journey: Identifying roads to 
+  ed     
+     B /    
+    :  
+ Turn Hadoop Data into Business Insights: A 
+  ed     
+     /    
+ How to do Predictive Analytics with 
+     - 
+    :  
+ 11:50am    /    
+ Unifying Your Data Management Platform with 
+   
+    :  
+ How is a rational (big) data deployment 
+   
+    :  
+ How to Leverage Mainframe Data with Hadoop: 
+  ed     
+ Regent   /    
+    :  
+ Real-time Stream Processing Architecture for 
+     - 
+    :  
+ GraphLab: Large-Scale Machine Learning 
+       /    
+    :  
+ Visualizing Big Graphs and Social Networks     
+ Design     
+     A /    
+    :  
+ Apache Hive    Stinger: Petabyte Scale 
+  ed     
+     B /    
+    :  
+ Data Blending – The Next Step in Big Data     
+  ed     
+     /    
+    :  
+ Building More Productive Data Science and 
+     - 
+    :  
+ 12:30pm    /    
+ Wednesday Lunchtime Industry BoFs     
+ America #x27;s   
+ SAS on Your Cluster, Serving your 
+   
+    :  
+ How Nordstrom Utilizes Human Intelligence to 
+   
+    :  
+ Data Science Without a Scientist     
+  ed     
+ Regent   /    
+    :  
+ Ancestry.com: Managing Big Data Reaching Back to 
+     - 
+    :  
+ MySQL #x27;s NoSQL Interface     
+       /    
+    :  
+ Turkers Mapping Africa     
+     A /    
+ Deeper Insight into Opertional 
+  ed     
+     B /    
+    :  
+ Testing Riak for Multiple Data-  Support: 
+  ed     
+     /    
+ Text Analytics at Scale: Listening to 45 
+     - 
+    :  
+ SQL on Hadoop: The Secret     
+  ed     
+ Regent   /    
+   Security for the Data 
+     - 
+    :  
+ Practical Performance Analysis and Tuning 
+       /    
+    :  
+ Addressing Legacy Risks with Hadoop     
+     A /    
+ Driving Business Insights at Morgan Stanley: 
+  ed     
+     B /    
+    :  
+     /    
+ TBC /    
+ How to Get Statistics Right in AB Testing: The 
+     - 
+    :  
+     /    
+ Adaptive Data Preparation™ … From Raw Data to 
+  ed     
+ Regent   /    
+    :  
+ Big Data Architectural Patterns     
+     - 
+    :  
+ Hadoop Internals for Oracle Developers 
+       /    
+    :  
+ Sparking Global Business Transformation with 
+     A /    
+    :  
+ Apache Hadoop on the Open Cloud     
+  ed     
+     B /    
+    :  
+ Getting the Most Out of Time-series Data     
+     - 
+    :  
+ Monetize Your Data Firehose Like a 
+     - 
+    :  
+ Trickery and Tooling for Distributed 
+       /    
+    :  
+ Evolution in Characterizing Internet Usage     
+     A /    
+    :  
+ Data Science of Love     
+     - 
+    :  
+ Mobile App Test     
+   Pavilion /    
+    :  
+  s /h2   
+ Elite  s /    
+ MapR 
+ Strategic  s /    
+ ClearStory 
+ Zettabyte  s /    
+ Contributing  s /    
+ Exabyte  s /    
+ Data Direct 
+ SoftLayer, an 
+ Terabyte  s /    
+ Progress 
+ WANdisco       /ul   
+ For exhibition and sponsorship opportunities, contact 
+ sstewart@oreilly.com    /p   
+ Media 
+ For information on trade opportunities with O'Reilly 
+ Press 
+ For media-related inquiries, contact Maureen Jennings at 
+ maureen@oreilly.com    /p   
+ Contact Us /    
+ View a complete list of 
+ Actian - Strata NY 2013     
+ Application Developer Alliance - Strata 
+ Cisco - Strata NY 2013     
+ ClearStory - Strata NY 2013     
+ Cloudera - Strata NY 2013     
+ Datameer - Strata NY 2013     
+ Datanami - Strata NY 2013     
+ FierceBigData - Strata NY 2013     
+ IBM - Strata NY 2013     
+ Informatica - Strata NY 2013     
+ Kognitio - Strata NY 2013     
+ LG - Strata NY 2013     
+ MapR - Strata NY 2013     
+ MarkLogic - Strata NY 2013     
+ Microsoft - Strata NY 2013     
+ Microstrategy - Strata NY 2013     
+ Oracle - Strata NY 2013     
+ Pivotal - Strata NY 2013     
+ Platfora - Strata NY 2013     
+ Rackspace - Strata NY 2013     
+ Red Hat - Strata NY 2013     
+ SAP - Strata NY 2013     
+ SAS - Strata NY 2013     
+ Syncsort - Strata NY 2013     
+ Monday-Friday 7:30am-5pm PT br /  All 
+ Strata Conference /strong      
+ About        
+ More 
+ Diversity        
+ Code of Conduct        
+ Sitemap        
+ Privacy Policy        
+ Stay Connected /strong      
+ Strata Bulletin        
+ Strata News 
+ Strata 
+ Twitter        
+ Facebook        
+ Google+        
+ LinkedIn        
+ More O'Reilly Sites /strong      
+ O'Reilly Conferences        
+ oreilly.com        
+ O'Reilly Radar        
+ O'Reilly Video        
+ O'Reilly Answers        
+ O'Reilly Webcasts        
+ Ignite        
+ Strata 
+ Europe    /    

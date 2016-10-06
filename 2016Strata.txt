@@ -1,0 +1,323 @@
+Summary:Conquer the time series data pipeline with SMACK 
+Summary:Data science that works: Best practices for designing data-driven improvements, making them real, and driving change in your enterprise 
+Summary:Conquer the time series data pipeline with SMACK 
+Summary:Data science that works: Best practices for designing data-driven improvements, making them real, and driving change in your enterprise 
+Summary:Parallel SQL and analytics with Solr 
+Summary:JupyterLab: The evolution of the Jupyter Notebook 
+Summary:Designing a location intelligence platform for everyone by integrating data, analysis, and cartography 
+Summary:The future of column-oriented data processing with Arrow and Parquet 
+Summary:Beyond Hadoop at Yahoo: Interactive analytics with Druid 
+Summary:The Netflix data platform: Now and in the future 
+Summary:Parquet performance tuning: The missing guide 
+Summary:The evolution of massive-scale data processing 
+Summary:Streaming analytics at 300 billion events per day with Kafka, Samza, and Druid 
+Summary:Smart data for smarter firefighters 
+Summary:An introduction to Druid 
+Summary:Building machine-learning apps with Spark: MLlib, ML Pipelines, and GraphX 
+Summary:Deep learning with TensorFlow 
+Summary:Parallel SQL and analytics with Solr 
+Summary:JupyterLab: The evolution of the Jupyter Notebook 
+Summary:Designing a location intelligence platform for everyone by integrating data, analysis, and cartography 
+Summary:The future of column-oriented data processing with Arrow and Parquet 
+Summary:Beyond Hadoop at Yahoo: Interactive analytics with Druid 
+Summary:The Netflix data platform: Now and in the future 
+Summary:Parquet performance tuning: The missing guide 
+Summary:The evolution of massive-scale data processing 
+Summary:Streaming analytics at 300 billion events per day with Kafka, Samza, and Druid 
+Summary:Smart data for smarter firefighters 
+Summary:An introduction to Druid 
+Summary:Creating and evaluating a distance measure 
+Summary:Holographic data visualizations: Welcome to the real world 
+Summary:The devil is in the details: Interactive, multiscale visualization of data lineage 
+Summary:What ties to what? Visualizing large-scale customer text data with bipartite graphs 
+Summary:Investigating event graphs at scale: Going from theory to practice 
+Summary:Caravel: An open source data exploration and visualization platform 
+Summary:Model visualization 
+Summary:Corporate strategy: Artificial intelligence or bust 
+Summary:Five-senses data: Using your senses to improve data signal and value 
+Summary:Practical machine learning 
+Summary:Creating and evaluating a distance measure 
+Summary:Holographic data visualizations: Welcome to the real world 
+Summary:A unified ecosystem for market data visualization 
+Summary:The devil is in the details: Interactive, multiscale visualization of data lineage 
+Summary:What ties to what? Visualizing large-scale customer text data with bipartite graphs 
+Summary:Investigating event graphs at scale: Going from theory to practice 
+Summary:Caravel: An open source data exploration and visualization platform 
+Summary:Data risk intelligence in a regulated world 
+Summary:Model visualization 
+Summary:Corporate strategy: Artificial intelligence or bust 
+Summary:Five-senses data: Using your senses to improve data signal and value 
+Summary:Data case studies 
+Summary:Powering real-time analytics on Xfinity using Kudu 
+Summary:Apache Kafka: The rise of real-time data and stream processing 
+Summary:Watermarks: Time and progress in Apache Beam (incubating) and beyond 
+Summary:Triggers in Apache Beam (incubating) 
+Summary:Fast cars, big data: How streaming data can help Formula 1 
+Summary:When one data center is not enough: Building large-scale stream infrastructures across multiple data centers with Apache Kafka 
+Summary:How GE analyzes billions of mission-critical events in real time using Apache Apex, Spark, and Kudu 
+Summary:Stream analytics in the enterprise: A look at Intel’s internal IoT implementation 
+Summary:Data case studies 
+Summary:Powering real-time analytics on Xfinity using Kudu 
+Summary:Apache Kafka: The rise of real-time data and stream processing 
+Summary:Watermarks: Time and progress in Apache Beam (incubating) and beyond 
+Summary:Triggers in Apache Beam (incubating) 
+Summary:Analytics for large-scale time series and event data 
+Summary:Fast cars, big data: How streaming data can help Formula 1 
+Summary:Implementing extreme scaling and streaming in finance 
+Summary:When one data center is not enough: Building large-scale stream infrastructures across multiple data centers with Apache Kafka 
+Summary:How GE analyzes billions of mission-critical events in real time using Apache Apex, Spark, and Kudu 
+Summary:How to achieve zero-latency IoT and FSI data processing with Spark 
+Summary:Stream analytics in the enterprise: A look at Intel’s internal IoT implementation 
+Summary:Just enough Scala for Spark 
+Summary:Making on-demand grocery delivery profitable with data science 
+Summary:Where's the puck headed? 
+Summary:The insight-driven business 
+Summary:Breeding data scientists: A four-year study 
+Summary:Using the explosion of data in the utility industry to prevent explosions in utility infrastructure 
+Summary:Just enough Scala for Spark 
+Summary:Developing a modern enterprise data strategy 
+Summary:Making on-demand grocery delivery profitable with data science 
+Summary:Where's the puck headed? 
+Summary:The insight-driven business 
+Summary:A data-first approach to drive real-time applications 
+Summary:Winning with data: How ThredUp, Twilio, and Warby Parker use data to build advantage 
+Summary:What Crimean War gunboats teach us about the need for schema registries 
+Summary:Helping computers help us see 
+Summary:AI-fueled customer experience: How online retailers are moving toward real-time perception, reasoning, and learning 
+Summary:Breeding data scientists: A four-year study 
+Summary:CANCELED: How to hire and test for data skills: A one-size-fits-all interview kit 
+Summary:Using the explosion of data in the utility industry to prevent explosions in utility infrastructure 
+Summary:Using graph databases to operationalize insights from big data 
+Summary:Big data in healthcare 
+Summary:Swipe, dip, and hover: Managing card payment data at Visa 
+Summary:Architecting for change: LinkedIn's new data ecosystem 
+Summary:Big data architectural patterns and best practices on AWS 
+Summary:BI and SQL analytics with Hadoop in the cloud 
+Summary:Tackling machine-learning complexity for data curation 
+Summary:Lessons learned running Hadoop and Spark in Docker 
+Summary:Life of a click: How Hearst manages clickstream analytics in the cloud 
+Summary:Machine intelligence in the wild: How AI will reshape global industries 
+Summary:Machine learning in Python 
+Summary:Interactive data applications in Python 
+Summary:Using graph databases to operationalize insights from big data 
+Summary:Big data in healthcare 
+Summary:Swipe, dip, and hover: Managing card payment data at Visa 
+Summary:Architecting for change: LinkedIn's new data ecosystem 
+Summary:Big data architectural patterns and best practices on AWS 
+Summary:BI and SQL analytics with Hadoop in the cloud 
+Summary:Tackling machine-learning complexity for data curation 
+Summary:Twitter's real-time stack: Processing billions of events with Heron and DistributedLog 
+Summary:Lessons learned running Hadoop and Spark in Docker 
+Summary:Life of a click: How Hearst manages clickstream analytics in the cloud 
+Summary:Machine intelligence in the wild: How AI will reshape global industries 
+Summary:Adventures from the frontlines of data for good 
+Summary:Building data lakes in the cloud 
+Summary:Big data, big decisions: Key legal considerations for the collection and use of big data 
+Summary:Thinking outside the black box: The imperative for accountability and transparency in predictive analytics 
+Summary:The personalization spectrum 
+Summary:Pulsar: Real-time analytics at scale leveraging Kafka, Kylin, and Druid 
+Summary:Account takeovers are taking over: How big data can stop them 
+Summary:Streaming cybersecurity into Graph: Accelerating data into Datastax Graph and Blazegraph 
+Summary:Securing Apache Kafka 
+Summary:Authorization in the cloud: Enforcing access control across compute engines 
+Summary:Apache Kudu: 1.0 and beyond 
+Summary:Deploying and managing Hive, Spark, and Impala in the public cloud 
+Summary:Deploying and managing Hive, Spark, and Impala in the public cloud 
+Summary:Data 101 
+Summary:The business case for Spark, Kafka, and friends 
+Summary:Cloud computing and big data 
+Summary:Data science from idea to pilot to production: Challenges and lessons learned 
+Summary:How to build (and execute) a real data strategy 
+Summary:Statistics and the art of deception 
+Summary:Encoding new data visualizations 
+Summary:R for big data 
+Summary:Introduction to visualizations using D3 
+Summary:File format benchmark: Avro, JSON, ORC, and Parquet 
+Summary:Tuning Impala: The top five performance optimizations for the best BI and SQL analytics on Hadoop 
+Summary:Elastic data services on Mesos via Mesosphere’s DC/OS 
+Summary:Debunking HDFS erasure coding performance myths 
+Summary:Using parallel graph-processing libraries for cancer genomics 
+Summary:Unlocking unstructured text data with summarization 
+Summary:Big data is a household word: How Procter & Gamble uses on-cluster Hadoop BI to give visual insight to hundreds of business users for everyday use 
+Summary:R for big data 
+Summary:Introduction to visualizations using D3 
+Summary:File format benchmark: Avro, JSON, ORC, and Parquet 
+Summary:Tuning Impala: The top five performance optimizations for the best BI and SQL analytics on Hadoop 
+Summary:Elastic data services on Mesos via Mesosphere’s DC/OS 
+Summary:Debunking HDFS erasure coding performance myths 
+Summary:Using parallel graph-processing libraries for cancer genomics 
+Summary:Unlocking unstructured text data with summarization 
+Summary:Big data is a household word: How Procter & Gamble uses on-cluster Hadoop BI to give visual insight to hundreds of business users for everyday use 
+Summary:Recent developments in SparkR for advanced analytics 
+Summary:Fast deep learning at your fingertips 
+Summary:Machine-learning techniques for class imbalances and adversaries 
+Summary:Data modeling for microservices with Cassandra and Spark 
+Summary:How the largest US healthcare dataset in Hadoop enables patient-level analytics in near real time 
+Summary:Planning your SQL-on-Hadoop cluster for a multiuser environment with heterogeneous and concurrent query workloads 
+Summary:Creating real-time, data-centric applications with Impala and Kudu 
+Summary:How a Spark-based feature store can accelerate big data adoption in financial services 
+Summary:Zillow: Transforming real estate through big data and data science 
+Summary:Hadoop and Spark at ING: An overview of the architecture, security, and business cases at a large international bank 
+Summary:Data science and the Internet of Things: It's just the beginning 
+Summary:Shifting cities: A case study in data visualization 
+Summary:Implementing streaming architecture with Apache Flink: Present and future 
+Summary:Machine intelligence at Google scale 
+Summary:Amazon Kinesis: Real-time streaming data in the AWS cloud 
+Summary:Learn stream processing with Apache Beam 
+Summary:An introduction to Apache Kafka 
+Summary:Learn stream processing with Apache Beam 
+Summary:An introduction to Apache Kafka 
+Summary:Why should I trust you? Explaining the predictions of machine-learning models 
+Summary:Data science at eHarmony: A generalized framework for personalization 
+Summary:Iterative supervised clustering: A dance between data scientists and machine learning 
+Summary:How the Washington Post uses machine learning to predict article popularity 
+Summary:Conditional recurrent neural nets, generative AI Twitter bots, and DL4J 
+Summary:Removing complexity from scalable machine learning 
+Summary:Recent advances in applications of deep learning for text and speech 
+Summary:Semantic natural language understanding with Spark Streaming, UIMA, and machine-learned ontologies 
+Summary:A data-driven approach to the US presidential election 
+Summary:Evaluating models for a needle in a haystack: Applications in predictive maintenance 
+Summary:Predicting patent litigation 
+Summary:Architecting a data platform 
+Summary:Hadoop application architectures: Architecting a next-generation data platform for real-time ETL, data analytics, and data warehousing 
+Summary:Why should I trust you? Explaining the predictions of machine-learning models 
+Summary:Data science at eHarmony: A generalized framework for personalization 
+Summary:Iterative supervised clustering: A dance between data scientists and machine learning 
+Summary:How the Washington Post uses machine learning to predict article popularity 
+Summary:Conditional recurrent neural nets, generative AI Twitter bots, and DL4J 
+Summary:Removing complexity from scalable machine learning 
+Summary:Recent advances in applications of deep learning for text and speech 
+Summary:Semantic natural language understanding with Spark Streaming, UIMA, and machine-learned ontologies 
+Summary:A data-driven approach to the US presidential election 
+Summary:Evaluating models for a needle in a haystack: Applications in predictive maintenance 
+Summary:Predicting patent litigation 
+Summary:Spark camp: Exploring Wikipedia with Spark 
+Summary:The state of Spark and what's next after Spark 2.0 
+Summary:Top five mistakes when writing Spark applications 
+Summary:Tuning Spark machine-learning workloads 
+Summary:Big data processing with Hadoop and Spark, the Uber way 
+Summary:Delivering near real-time mobility insights at Swisscom 
+Summary:Breaking Spark: The top five mistakes to avoid when using Apache Spark in production 
+Summary:A deep dive into Structured Streaming in Spark 
+Summary:Apache Spark in fintech: Building fraud detection applications with distributed machine learning at Intel 
+Summary:Spark Structured Streaming for machine learning 
+Summary:Choice Hotels's journey to better understand its customers through self-service analytics 
+Summary:Spark and Java: Yes, they work together 
+Summary:Spark camp: Exploring Wikipedia with Spark 
+Summary:The state of Spark and what's next after Spark 2.0 
+Summary:Top five mistakes when writing Spark applications 
+Summary:Tuning Spark machine-learning workloads 
+Summary:Big data processing with Hadoop and Spark, the Uber way 
+Summary:Delivering near real-time mobility insights at Swisscom 
+Summary:Breaking Spark: The top five mistakes to avoid when using Apache Spark in production 
+Summary:A deep dive into Structured Streaming in Spark 
+Summary:Apache Spark in fintech: Building fraud detection applications with distributed machine learning at Intel 
+Summary:Spark Structured Streaming for machine learning 
+Summary:Choice Hotels's journey to better understand its customers through self-service analytics 
+Summary:Spark and Java: Yes, they work together 
+Summary:Data science at scale: Using Spark and Hadoop 
+Summary:Data science at scale: Using Spark and Hadoop 
+Summary:Data science at scale: Using Spark and Hadoop 
+Summary:Ask me anything: Hadoop application architectures 
+Summary:Ask me anything: Developing a modern enterprise data strategy 
+Summary:Ask me anything: Deep learning with TensorFlow 
+Summary:Ask me anything: Stream processing with Apache Beam and Google Cloud Dataflow engineers 
+Summary:Ask me anything: The state of Spark 
+Summary:Spark foundations: Prototyping Spark use cases on Wikipedia datasets 
+Summary:Spark foundations: Prototyping Spark use cases on Wikipedia datasets 
+Summary:Spark foundations: Prototyping Spark use cases on Wikipedia datasets 
+Summary:Data science for executives 
+Summary:Making real-time analytics on the data lake a reality 
+Summary:VoltDB and the Jepsen test: What we learned about data accuracy and consistency 
+Summary:Big data journeys from the real world 
+Summary:Beyond the numbers: Expanding the size of your analytic discovery team 
+Summary:Yellow Pages (Canada): Our journey to speed of thought interactive analytics on top of Hadoop 
+Summary:Getting it right exactly once: Principles for streaming architectures 
+Summary:Citi, Standard Charter Bank, and Polaris: The modern information pipeline that fuels investigations of money laundering, fraud, and human trafficking 
+Summary:Create advanced analytic models with open source 
+Summary:Alluxio (formerly Tachyon): The journey thus far and the road ahead 
+Summary:Rethinking operational data stores on Hadoop 
+Summary:Guerrilla guide to Python and Apache Hadoop 
+Summary:A practitioner’s guide to securing your Hadoop cluster 
+Summary:Guerrilla guide to Python and Apache Hadoop 
+Summary: Five ways to modernize your BI tools and make them work on more data 
+Summary:Building a modern data architecture 
+Summary:Unified integration for data lakes and modern data applications 
+Summary:Successful open data science on Hadoop: From sandbox to production 
+Summary:Why is this disruption different from all other disruptions? Hadoop as a game changer in financial services 
+Summary:5 cloud AI innovations 
+Summary:Running Presto and Spark on AWS: From zero to insight in less than five minutes 
+Summary:BigQuery for data warehousing 
+Summary:The keys to an event-based microservices application 
+Summary:Ask me anything: Apache Kafka 
+Summary:Ask me anything: Getting into (and out of) data science consulting 
+Summary:FinData day 
+Summary:FinData day 
+Summary:Big data meets the IoT 
+Summary:Trusted IoT and big data ecosystems 
+Summary:Turning petabytes of data into millions in cost savings for the world’s biggest retailers 
+Summary:Virtualizing big data: Effective approaches derived from real-world deployments 
+Summary:From lake to reservoir: Harnessing big data’s power for the enterprise 
+Summary:Big data and analytics with Cisco UCS: Lessons learned and platform considerations 
+Summary:Big data governance: Making big data an enterprise-class citizen 
+Summary:Sensitive data sharing for analytics 
+Summary:Accelerating time to analytical value in the enterprise with data lake management 
+Summary:Ask me anything: White House Office of Science and Technology Policy 
+Summary:The flux capacitor of machine learning: Turn data garbage into 1.21 gigawatt-powered acceleration 
+Summary:Filling the data lake 
+Summary:Changing the landscape with deep learning and accelerated analytics 
+Summary:Powering the future of data with connected data platforms 
+Summary:Accelerate EDW modernization with the Hadoop ecosystem 
+Summary:Achieve richer insights and business outcomes with Dell EMC big data and analytics 
+Summary:Enhancing the customer experience when driving Hadoop adoption 
+Summary:Open source operations: Building on Apache Spark with InsightEdge, TensorFlow, Apache Zeppelin, and your own project 
+Summary:ODPi: The foundation for cross-distribution interoperability 
+Summary:From data to insights using analytics 
+Summary:Data warehouse augmentation and modernization using Hadoop 
+Summary:Path-to-purchase analytics using a data lake and Spark 
+Summary:Neptune: A machine-learning platform for experiment management 
+Summary:Top data wrangling use cases in enterprise analytics 
+Summary:Gaining extreme agility and performance using a Spark-free approach to data management 
+Summary:How an open analytics ecosystem became a lifesaver 
+Summary:A new “Sparkitecture” for modernizing your data warehouse 
+Summary:Governance and metadata management of Cigna's enterprise data lake 
+Summary:Future-proofing BI: An unexpected journey to leverage in-chip analytics in the IoT and AI 
+Summary:Certification for Apache Cassandra: Get trained, get certified, get better paid 
+Summary:Certification for Apache Cassandra: Get trained, get certified, get better paid 
+Summary:Certification for Apache Cassandra: Get trained, get certified, get better paid 
+Summary:Wednesday keynotes 
+Summary:Thursday keynotes 
+Summary:Wednesday keynotes 
+Summary:Thursday keynotes 
+Summary:The new dynamics of big data 
+Summary:Decision 2016: What is your data platform? 
+Summary:US venture: Risk, values, founder outcomes 
+Summary:The art and science of serendipity 
+Summary:Collaboration and openness drive innovation in artificial intelligence 
+Summary:Driving open source adoption within the enterprise 
+Summary:Transforming healthcare through precision data science: Myths and facts 
+Summary:Modern analytics with Dell EMC 
+Summary:Hadoop in the cloud: A Nielsen use case 
+Summary:Inbox is the Trojan horse of AI 
+Summary:Connected eyes 
+Summary:The tech behind the biggest journalism leak in history 
+Summary:Business insights driven by speed 
+Summary:Data science: A view from the White House 
+Summary:Bring data to life with Immersive Visualization 
+Summary:SAS: More open than you might think 
+Summary:From big data to human-level artificial intelligence 
+Summary:Statistics, machine learning, and the crazy 2016 election 
+Summary:The trouble with polls 
+Summary:Google BigQuery for enterprise 
+Summary:Opening Reception 
+Summary:Opening Reception 
+Summary:Booth Crawl 
+Summary:Booth Crawl 
+Summary:Wednesday BoF Tables 
+Summary:Wednesday BoF Tables 
+Summary:Thursday BoF Tables 
+Summary:Data Dash 
+Summary:Data Dash 
+Summary:Startup Showcase 
+Summary:Startup Showcase 
+Summary:Data After Dark: Aboard the City at Sea (sponsored by Cisco, Cloudera, and ThoughtSpot) 
